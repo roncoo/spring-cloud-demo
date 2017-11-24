@@ -1,5 +1,6 @@
-## Spring Boot Demo：[地址](https://github.com/roncoo/spring-boot-demo)
-## Spring Cloud Demo：[地址](https://github.com/roncoo/spring-cloud-demo)
+## 项目地址汇总
+### Spring Cloud Demo：[https://github.com/roncoo/spring-cloud-demo](https://github.com/roncoo/spring-cloud-demo)
+### Spring Boot Demo：[https://github.com/roncoo/spring-boot-demo](https://github.com/roncoo/spring-boot-demo)
 
 本项目为Spring cloud的基础教程
 
@@ -10,12 +11,12 @@
 ### 项目文档
 - spring-boot-demo [教程文档](http://www.roncoo.com/article/detail/124661)
 
-### 项目说明
-- 源码只供学习使用，更多请看视频
-
-### 开源项目 【roncoo-jui-springboot】** [项目地址](https://github.com/roncoo/roncoo-jui-springboot)
+### 开源项目 【roncoo-jui-springboot】 [项目地址](https://github.com/roncoo/roncoo-jui-springboot)
 - 该项目是为了大家更好地运用Spring Boot的功能，进行实战。
 - 如果没有使用过Spring Boot，也是一个学习的好项目。
+
+### 项目说明
+- 源码只供学习使用，更多请看视频
 
 ### 技术交流
 * QQ2群: 601146630
