@@ -12,3 +12,4 @@
 spring-cloud-02/spring-cloud-02-service/target/classes/application.properties
 */*/target/
 *.iml
+.idea/
